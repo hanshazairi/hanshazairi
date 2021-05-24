@@ -18,8 +18,6 @@ I am currently upskilling and learning computer programming at 👨🏻‍💻 [
 | 9   | ft_services                                                      | 🔒     |   | 19  | CPP Module 07 | 🔒     |   |     |                                                         |        |
 | 10  | Inception                                                        | 🔒     |   | 20  | CPP Module 08 | 🔒     |   |     |                                                         |        |
 
-[netwhat](https://github.com/hanshazairi/42-netwhat)
-
 ## 📱 Connect With Me!
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hanshazairi/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanshazairi/)
