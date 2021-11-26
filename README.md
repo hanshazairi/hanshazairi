@@ -1,6 +1,6 @@
 ## Hi Everyone! 👋🏻
 
-My name is Hans and I was a 👷🏻‍♂️ Tunnel Engineer for 🚇 [Klang Valley Mass Rapid Transit (KVMRT) Putrajaya Line](https://www.mymrt.com.my/public/putrajaya-line/).
+My name is Hans and I was formerly a 👷🏻‍♂️ Tunnel Engineer.
 
 I made a career switch and am currently learning computer programming at 👨🏻‍💻 [42 Kuala Lumpur](https://42kl.edu.my).
 
@@ -22,5 +22,6 @@ I made a career switch and am currently learning computer programming at 👨�
 ## 📱 Connect With Me!
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hanshazairi/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanshazairi/)
+[![Docker Hub](https://img.shields.io/badge/-Docker%20Hub-0db7ed?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/hanshazairi)
 [![Gmail](https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white)](mailto:hanshazairi@gmail.com)
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square)](https://hanshazairi.github.io)
